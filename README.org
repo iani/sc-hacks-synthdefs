@@ -1,0 +1,7 @@
+#+TITLE: Readme
+
+These SynthDefs are used by works developed with sc-hacks-redux.
+They are kept in a separate repository to avoid conflicts and compile errors when using sc-hacks-redux on a computer that may miss some of the third-party plug-ins required by the synthdefs.
+
+* Requirements
+You will need to install sc-hacks-redux to run this folder, because the classes included here to install the synthdefs require some shortcuts from sc-hacks-redux.
